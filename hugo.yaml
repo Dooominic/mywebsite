@@ -1,0 +1,38 @@
+baseURL: https://domh.info/
+languageCode: en-us
+title: Dominic Hartman
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: dark
+  profileMode:
+    enabled: true
+    subtitle: I'm a Cyber Security practitioner with a real passion for IT 💻
+    buttons:
+  #          - name: Blog
+  #             url: posts
+
+  # homeInfoParams:
+  #   Title: "Hey there \U0001F44B"
+  #   Content: >
+  #    I'm a cyber security practitioner with a real passion for IT. 
+     
+  #    -
+     
+  #    - **I have real industry experience in:**
+
+  #    - Incident Response
+     
+  #    - Security investigations and alerting
+     
+  #    - Penetration testing
+     
+  #    - Python/Bash scripting
+
+  #    - Check out my socials:
+
+  socialIcons:
+    - name: linkedin
+      url: "https://www.linkedin.com/in/dominic-hartman/"
+    - name: github
+      url: "https://github.com/Dooominic"
